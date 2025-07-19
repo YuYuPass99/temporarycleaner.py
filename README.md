@@ -10,5 +10,5 @@
 ## Как запустить:
 
 ```bash
-python tempclean.py
+python tempcleaner.py
 
